@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-demo",
+  "version": "1.0.0",
+  "description": "vuepress 开发模版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [
+    "vuepress"
+  ],
+  "author": "yizhen.fan",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.1-security"
+  }
+}
